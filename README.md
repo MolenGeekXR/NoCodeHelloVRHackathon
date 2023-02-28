@@ -5,8 +5,11 @@ Bienvenu à ce wiki d'aide à une initiation VR sans code dans la thématique la
   
 ## Context 
     
-Bienvenu à vous. Mon nom est [Éloi Strée](https://linkedin.com/eloistree) ([GitHub](https://github.com/eloistree)).   
-Et l'on m'a demandé de vous aider à tester, apprendre et comprendre la VR à l'aide d'un hackathon "sans code".   
+Bienvenu à vous.   
+Mon nom est [Éloi Strée](https://linkedin.com/eloistree) ([GitHub](https://github.com/eloistree)).   
+[![image](https://user-images.githubusercontent.com/120555049/221828607-b4d5257f-8677-4317-8cd5-bbda7b8e2361.png)]](https://github.com/eloistree)  
+  
+L'on m'a demandé de vous aider à tester, apprendre et comprendre la VR à l'aide d'un hackathon "sans code".   
 
 Comme le meilleur apprentissage c'est de s'autoformer: RTFM, LMGTFY, Youtube, Udemy, ChatGPT.       
 Ce wiki est la pour vous donnez les directions, des vidéos et les bons mots clé à aller rechercher.     
