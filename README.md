@@ -31,3 +31,10 @@ Comme dirai l'autre:
 Suivre l'initation ici: [Wiki](https://github.com/MolenGeekXR/NoCodeHelloVRHackathon/wiki)
 
 
+Si vous avez la moindre questions.   
+Prenez le temps de l'écrire dans l'issue de ce projet:   
+https://github.com/MolenGeekXR/NoCodeHelloVRHackathon/issues  
+Pour que je puisse répondre à tout le monde et pas à une seule personne à la fois.  
+Mercid d'avance ;)  
+
+
