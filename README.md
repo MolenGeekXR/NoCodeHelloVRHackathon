@@ -26,8 +26,8 @@ Je vais donc partir du principe que vous n'allez pas apprendre le code dans cett
 
 Comme dirai l'autre:  
 > "Allons-y, Alonso!"     
-![Uploading image.png…]()  
 
 
+Suivre l'initation ici: [Wiki](https://github.com/MolenGeekXR/NoCodeHelloVRHackathon/wiki)
 
 
